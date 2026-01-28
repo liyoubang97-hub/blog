@@ -707,14 +707,6 @@ AI可以组合已有信息，但**从0到1的创造**，仍然需要人类。
 
 ---
 
-### [配图位置6: 政策插图]
-**🎨 描述**: 政府政策插图，官方风格，government policy illustration, formal style, red and gold
-**📐 尺寸**: 16:9
-**🎨 风格**: natural
-**💡 提示词**: "Government policy support illustration, formal official style, red and gold colors, training and welfare programs"
-
----
-
 ## 🏛️ 第五章：政策——政府提供的培训与保障
 
 ### 📚 教育培训与技能提升
